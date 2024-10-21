@@ -1,5 +1,5 @@
 """
-leetcode.com/problem-list/string/
+leetcode.com/problem-list/hash-table/
 https://leetcode.com/problems/letter-combinations-of-a-phone-number/?envType=problem-list-v2&envId=string
 """
 
