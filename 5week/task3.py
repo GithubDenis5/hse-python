@@ -1,3 +1,8 @@
+"""
+leetcode.com/problem-list/hash-table/
+https://leetcode.com/problems/set-matrix-zeroes/description/?envType=problem-list-v2&envId=hash-table&difficulty=MEDIUM
+"""
+
 class Solution:
     def setZeroes(self, matrix: list[list[int]]) -> None:
         """
